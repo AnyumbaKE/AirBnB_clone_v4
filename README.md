@@ -10,15 +10,7 @@
  Project over - took place from Feb 8, 2024 6:00 AM to Feb 12, 2024 6:00 AM
  Manual QA review was done by David Owolagba on Feb 12, 2024 1:37 AM
  An auto review will be launched at the deadline
-In a nutshell…
-Manual QA review: 117.0/117 mandatory & 63.0/63 optional
-Auto QA review: 6.0/6 mandatory
-Altogether:  200.0%
-Mandatory: 100.0%
-Optional: 100.0%
-Calculation:  100.0% + (100.0% * 100.0%)  == 200.0%
-Overall comment:
-It is quite alright
+
 
 Concepts
 For this project, we expect you to look at this concept:
